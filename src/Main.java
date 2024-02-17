@@ -22,6 +22,7 @@ public class Main {
         } else if (clientOs == 0 && clientDeviceYear >= 2015) {
             System.out.println("Установите современную версию приложения для IOS по ссылке");
         }
+
         System.out.println("Задание 3");
         int year = 2028;
         if (year < 1584) {
